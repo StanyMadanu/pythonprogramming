@@ -1,0 +1,10 @@
+def figMenu():
+    print("="*50)
+    print("\tFigures Area Calculations")
+    print("="*50)
+    print("\t\t1.Rectangle")
+    print("\t\t2.Circle")
+    print("\t\t3.Square")
+    print("\t\t4.Triangle")
+    print("\t\t5.Exit")
+    print("="*50)
